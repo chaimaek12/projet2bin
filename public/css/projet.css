@@ -82,3 +82,33 @@ nav h1{
     color: grey;
     
 }
+
+.part2{
+
+    background-color: #ede8ff;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.icons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 50px;
+    padding: 0 20rem;
+}
+.icons div{
+    text-align: center;
+}
+
+.icons i {
+background-color: aliceblue;
+border-radius: 50%;
+font-size: 30px;
+}
+
