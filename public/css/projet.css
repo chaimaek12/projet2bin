@@ -82,6 +82,51 @@ nav h1{
     color: grey;
     
 }
+footer{
+    background-color: rgb(14, 170, 222)
+}
+.top h4  ,.top h5{
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top button {
+    display: block;       
+  margin: 0 auto;       
+  max-width: 100%; 
+  background-color: rgb(107, 0, 128);
+  width: 170px;
+ margin-top:20px ;
+
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.bottom a{
+    text-decoration: none;
+    color: grey;
+}
+.bottom h3{
+    color: gray;
+
+}
+.bottom h1{
+    color: rgb(107, 0, 128);
+}
 
 .part2{
 
