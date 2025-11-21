@@ -56,3 +56,29 @@ nav h1{
   gap: 100px;
   
 }
+.part5{
+    display: flex;
+    padding-top: 40px;
+}
+.leftpart{
+    width:100vw ;
+    height: 100vh ;
+
+}
+.rightpart{ 
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100vw;
+    height: 100vh;
+
+}
+.modif{
+    display: flex;
+        align-items: center;
+        gap: 20px;
+}
+.leftpart h4 {
+    padding-left: 40px;
+    color: grey;
+    
+}
