@@ -112,3 +112,24 @@ border-radius: 50%;
 font-size: 30px;
 }
 
+
+.part3{
+    background-color: green;
+}
+
+.taitle2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.part3 img{
+    width: 50vh;
+}
+
+
+
+.div1{
+    display: flex;
+}
